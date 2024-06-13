@@ -19,7 +19,7 @@ This Solidity smart contract implements a simple enrollment system for a univers
 
 ## SPDX-License-Identifier
 
-This contract is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+This contract is licensed under the MIT License. 
 
 ## Versions
 
